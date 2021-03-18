@@ -1,0 +1,8 @@
+D:\net sol\EntityFramworkProject\StudentEntities\bin\Debug\netstandard2.0\StudentEntities.deps.json
+D:\net sol\EntityFramworkProject\StudentEntities\bin\Debug\netstandard2.0\StudentEntities.dll
+D:\net sol\EntityFramworkProject\StudentEntities\bin\Debug\netstandard2.0\StudentEntities.pdb
+D:\net sol\EntityFramworkProject\StudentEntities\obj\Debug\netstandard2.0\StudentEntities.csprojAssemblyReference.cache
+D:\net sol\EntityFramworkProject\StudentEntities\obj\Debug\netstandard2.0\StudentEntities.AssemblyInfoInputs.cache
+D:\net sol\EntityFramworkProject\StudentEntities\obj\Debug\netstandard2.0\StudentEntities.AssemblyInfo.cs
+D:\net sol\EntityFramworkProject\StudentEntities\obj\Debug\netstandard2.0\StudentEntities.dll
+D:\net sol\EntityFramworkProject\StudentEntities\obj\Debug\netstandard2.0\StudentEntities.pdb

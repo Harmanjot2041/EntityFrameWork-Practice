@@ -1,0 +1,97 @@
+﻿@model List<StudentEntities.Entities.Product>
+
+@{
+    ViewData["Title"] = "DisplayProducts";
+}
+    <div class="container">
+        <h1>Products Details</h1>
+
+        <p>
+            <a asp-action="Create">Create New</a>
+        </p>
+        </div>
+<table class="table table-bordered table-responsive table-hover" style="">
+    <thead>
+        <tr>
+            <th>
+                ProductId
+            </th>
+            <th>
+                ProductName
+            </th>
+            <th>
+                ProductDiscription
+            </th>
+            <th>
+                ProductColor
+            </th>
+            <th>
+                ProductPrice
+            </th>
+            <th>
+                NoOfProducts
+            </th>
+            <th>
+                Product Catagory
+            </th>
+            <th>
+                ShippingAllowed
+            </th>
+            <th>
+                ExpiryDate
+            </th>
+            <th>
+                Edit
+            </th>
+            <th>
+                Details
+            </th>
+            <th>
+                Delete
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (StudentEntities.Entities.Product item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductDiscription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductColor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoOfProducts)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Catagory)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShippingAllowed)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpiryDate)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.ProductId }) 
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", new { id=item.ProductId })
+            </td>
+            <td>
+                @Html.ActionLink("Delete", "Delete", new { id=item.ProductId })
+            </td>
+
+        </tr>
+}
+    </tbody>
+</table>

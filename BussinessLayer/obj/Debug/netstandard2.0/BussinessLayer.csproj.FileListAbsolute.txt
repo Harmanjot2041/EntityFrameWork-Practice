@@ -1,0 +1,13 @@
+D:\net sol\EntityFramworkProject\BussinessLayer\bin\Debug\netstandard2.0\BussinessLayer.deps.json
+D:\net sol\EntityFramworkProject\BussinessLayer\bin\Debug\netstandard2.0\BussinessLayer.dll
+D:\net sol\EntityFramworkProject\BussinessLayer\bin\Debug\netstandard2.0\BussinessLayer.pdb
+D:\net sol\EntityFramworkProject\BussinessLayer\bin\Debug\netstandard2.0\StudentDataAccess.dll
+D:\net sol\EntityFramworkProject\BussinessLayer\bin\Debug\netstandard2.0\StudentEntities.dll
+D:\net sol\EntityFramworkProject\BussinessLayer\bin\Debug\netstandard2.0\StudentDataAccess.pdb
+D:\net sol\EntityFramworkProject\BussinessLayer\bin\Debug\netstandard2.0\StudentEntities.pdb
+D:\net sol\EntityFramworkProject\BussinessLayer\obj\Debug\netstandard2.0\BussinessLayer.csprojAssemblyReference.cache
+D:\net sol\EntityFramworkProject\BussinessLayer\obj\Debug\netstandard2.0\BussinessLayer.AssemblyInfoInputs.cache
+D:\net sol\EntityFramworkProject\BussinessLayer\obj\Debug\netstandard2.0\BussinessLayer.AssemblyInfo.cs
+D:\net sol\EntityFramworkProject\BussinessLayer\obj\Debug\netstandard2.0\BussinessLayer.csproj.CopyComplete
+D:\net sol\EntityFramworkProject\BussinessLayer\obj\Debug\netstandard2.0\BussinessLayer.dll
+D:\net sol\EntityFramworkProject\BussinessLayer\obj\Debug\netstandard2.0\BussinessLayer.pdb

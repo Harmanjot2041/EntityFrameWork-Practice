@@ -1,0 +1,11 @@
+D:\net sol\EntityFramworkProject\StudentDataAccess\bin\Debug\netstandard2.0\StudentDataAccess.deps.json
+D:\net sol\EntityFramworkProject\StudentDataAccess\bin\Debug\netstandard2.0\StudentDataAccess.dll
+D:\net sol\EntityFramworkProject\StudentDataAccess\bin\Debug\netstandard2.0\StudentDataAccess.pdb
+D:\net sol\EntityFramworkProject\StudentDataAccess\bin\Debug\netstandard2.0\StudentEntities.dll
+D:\net sol\EntityFramworkProject\StudentDataAccess\bin\Debug\netstandard2.0\StudentEntities.pdb
+D:\net sol\EntityFramworkProject\StudentDataAccess\obj\Debug\netstandard2.0\StudentDataAccess.csprojAssemblyReference.cache
+D:\net sol\EntityFramworkProject\StudentDataAccess\obj\Debug\netstandard2.0\StudentDataAccess.AssemblyInfoInputs.cache
+D:\net sol\EntityFramworkProject\StudentDataAccess\obj\Debug\netstandard2.0\StudentDataAccess.AssemblyInfo.cs
+D:\net sol\EntityFramworkProject\StudentDataAccess\obj\Debug\netstandard2.0\StudentDataAccess.csproj.CopyComplete
+D:\net sol\EntityFramworkProject\StudentDataAccess\obj\Debug\netstandard2.0\StudentDataAccess.dll
+D:\net sol\EntityFramworkProject\StudentDataAccess\obj\Debug\netstandard2.0\StudentDataAccess.pdb
